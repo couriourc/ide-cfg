@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "3bbafcddc5676ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ca84938db3d799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87c48b6739d06c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 39.44722924676658,
+                  "y": 45.20675081197986,
+                  "zoom": 0.3333333333333332
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3dd4e8fbf886eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "987dbc5670d8f4fa",
+        "type": "tabs",
+        "dimension": 75.88126159554731,
+        "children": [
+          {
+            "id": "a4d1994dfc9f1870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce044dedd57e8849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "绪论",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ea8d6f6779182a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f3b2b13fce3d6c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9ec5d114d9fd13c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8d6167592285250",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "92910ae8836a7b22",
+        "type": "tabs",
+        "dimension": 24.118738404452692,
+        "children": [
+          {
+            "id": "46ac18e336e17ae3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas"
+              }
+            }
+          },
+          {
+            "id": "853ef9e400d6f719",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "401ecf6c95e31916",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "未命名.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012117,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "687dfb8cd0c53082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c718ea3b78af998f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ead29975da303c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf52e6b5f2dbf93",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e0658acb4fbd826",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fde47305e8baa034",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4cc56d301f95ba6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a975fc406ff1ce2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dca9548a56659ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f2bb6d5c7bbfc3a",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-pending-notes:Pending Notes": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "dbfolder:创建一个新数据库表": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "e87c48b6739d06c3",
+  "lastOpenFiles": [
+    "Extras/Draws/白板 2023-06-26.md",
+    "未命名.canvas",
+    "Extras/Draws/白板 2023-06-26.light.svg",
+    "Extras/Draws/白板 2023-06-26.dark.svg",
+    "Extras/Draws/Untitled database.md",
+    "Extras/Draws/未命名看板.md",
+    "about/主页.md",
+    "Extras/Draws",
+    "Extras",
+    "_posts/计算机基础知识/数据结构/搜索树.md",
+    "_posts/前端/前端基础知识/CSS/CSS 选择器.md",
+    "_posts/计算机基础知识/数据结构/data-structure-start.md",
+    "_posts/计算机基础知识/数据结构/data-structure-list.md",
+    "_posts/计算机基础知识/数据结构/data-structrue-hash-table.md",
+    "_posts/计算机基础知识/数据结构/data-structure-concept.md",
+    "media/计算机基础知识/数据结构",
+    "media/计算机基础知识",
+    "Extra/templater/plantuml样式模板.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/Monorepo介绍.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/FormData 传数组.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/EXCEL 预览方案及其实现.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/ElmentUI-Uploader-Bug.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/CSS3 transformer 失效现象.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/前端的B 端设计思维.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/文件上传下载的方方面面.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/理想团队.md",
+    "_posts/公司经历以及问题记录/前端完整可用的下载.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/monorepo.canvas",
+    "_posts/闲情雅致/雅句.md",
+    "_posts/闲情雅致/旅游.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/跨域问题.md",
+    "Context",
+    "笔记核心/公司经历以及问题记录/成都量子矩阵/跨域问题.md",
+    "笔记核心/公司经历以及问题记录/成都量子矩阵/Monorepo介绍.md",
+    "Extras/Media/1687338318079.png",
+    "笔记核心/公司经历以及问题记录/成都量子矩阵/monorepo.canvas",
+    "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
+    "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
+    "Extras/Media/e16b57707f97dd9fd77b1db44d89be2a_MD5.png",
+    "Extras/Media/86c6b77fe3af9faf18de1493fd00a3c7_MD5.png",
+    "Extras/Media/4c67138c7fc7af237846734bbe2e308b_MD5.png",
+    "Extras/Media/1682347874531.mp4",
+    "Extras/Media/1a345fe8aa14edeb0e722a8cdfd156d3_MD5.png",
+    "Extras/Media/c49ed4279df93ba6b878a5a82d5b5adb_MD5.png",
+    "Extras/Media/4ffa09a07b84b3acc6c09b070438c406_MD5.png",
+    "笔记核心/英语/词汇",
+    "笔记核心/毕业设计",
+    "笔记核心/技术学习/算法",
+    "笔记核心/技术学习/数据库系统概论",
+    "Extras/Media/Pasted image 20230418125603.png",
+    "Atlas/Canvas/🧩 如何做读书笔记.canvas",
+    "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
+    "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
+    "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
+    "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas"
+  ]
+}

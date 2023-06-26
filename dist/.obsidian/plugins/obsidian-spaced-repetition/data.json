@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "flashcardEasyText": "简单",
+    "flashcardGoodText": "记得",
+    "flashcardHardText": "较难",
+    "flashcardTags": [
+      "#记忆闪卡"
+    ],
+    "convertFoldersToDecks": false,
+    "cardCommentOnSameLine": true,
+    "burySiblingCards": false,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "randomizeCardOrder": true,
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": true,
+    "convertCurlyBracketsToClozes": false,
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "+++",
+    "multilineReversedCardSeparator": "",
+    "editLaterTag": "#edit-later",
+    "enableNoteReviewPaneOnStartup": true,
+    "tagsToReview": [
+      "#复习回顾/常青笔记",
+      "#复习回顾",
+      "#习惯养成"
+    ],
+    "noteFoldersToIgnore": [],
+    "openRandomNote": true,
+    "autoNextNote": true,
+    "disableFileMenuReviewOptions": true,
+    "maxNDaysNotesReviewQueue": 365,
+    "initiallyExpandAllSubdecksInTree": false,
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1.3,
+    "maximumInterval": 36525,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false,
+    "showFileNameInFileLink": true,
+    "singlelineCardSeparator": "??",
+    "singlelineReversedCardSeparator": "???"
+  },
+  "buryDate": "2023-06-25",
+  "buryList": [],
+  "historyDeck": null
+}

@@ -1,0 +1,384 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pg",
+      "name": "笔记格式化插件",
+      "plugins": [
+        {
+          "id": "obsidian-pangu",
+          "name": "盘古 PanGu"
+        },
+        {
+          "id": "table-editor-obsidian",
+          "name": "Advanced Tables"
+        },
+        {
+          "id": "obsidian-advanced-uri",
+          "name": "Advanced URI"
+        },
+        {
+          "id": "obsidian-auto-link-title",
+          "name": "Auto Link Title"
+        },
+        {
+          "id": "obsidian-linter",
+          "name": "Linter"
+        },
+        {
+          "id": "make-md",
+          "name": "MAKE.md"
+        },
+        {
+          "id": "markdown-prettifier",
+          "name": "Markdown prettifier"
+        },
+        {
+          "id": "note-refactor-obsidian",
+          "name": "Note Refactor"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pg0",
+      "name": "全部插件",
+      "plugins": [
+        {
+          "id": "obsidian42-brat",
+          "name": "Obsidian42 - BRAT"
+        },
+        {
+          "id": "obsidian42-strange-new-worlds",
+          "name": "Obsidian42 - Strange New Worlds"
+        },
+        {
+          "id": "advanced-cursors",
+          "name": "Advanced Cursors"
+        },
+        {
+          "id": "calendar",
+          "name": "Calendar"
+        },
+        {
+          "id": "chatgpt-md",
+          "name": "ChatGPT MD"
+        },
+        {
+          "id": "chronology",
+          "name": "Chronology"
+        },
+        {
+          "id": "cmdr",
+          "name": "Commander"
+        },
+        {
+          "id": "convert-url-to-iframe",
+          "name": "Convert url to preview (iframe)"
+        },
+        {
+          "id": "dataview",
+          "name": "Dataview"
+        },
+        {
+          "id": "dbfolder",
+          "name": "DB Folder"
+        },
+        {
+          "id": "digitalgarden",
+          "name": "Digital Garden"
+        },
+        {
+          "id": "easy-typing-obsidian",
+          "name": "Easy Typing"
+        },
+        {
+          "id": "execute-code",
+          "name": "Execute Code"
+        },
+        {
+          "id": "file-tree-alternative",
+          "name": "File Tree Alternative Plugin"
+        },
+        {
+          "id": "find-unlinked-files",
+          "name": "Find orphaned files and broken links"
+        },
+        {
+          "id": "homepage",
+          "name": "Homepage"
+        },
+        {
+          "id": "janitor",
+          "name": "Janitor"
+        },
+        {
+          "id": "keyboard-analyzer",
+          "name": "Keyboard Analyzer"
+        },
+        {
+          "id": "make-md",
+          "name": "MAKE.md"
+        },
+        {
+          "id": "markdown-prettifier",
+          "name": "Markdown prettifier"
+        },
+        {
+          "id": "note-refactor-obsidian",
+          "name": "Note Refactor"
+        },
+        {
+          "id": "obsidian-advanced-uri",
+          "name": "Advanced URI"
+        },
+        {
+          "id": "obsidian-another-quick-switcher",
+          "name": "Another Quick Switcher"
+        },
+        {
+          "id": "obsidian-auto-link-title",
+          "name": "Auto Link Title"
+        },
+        {
+          "id": "obsidian-better-command-palette",
+          "name": "Better Command Palette"
+        },
+        {
+          "id": "obsidian-bulk-rename-plugin",
+          "name": "Bulk Rename"
+        },
+        {
+          "id": "obsidian-chartsview-plugin",
+          "name": "Charts View"
+        },
+        {
+          "id": "obsidian-daily-note-outline",
+          "name": "Daily Note Outline"
+        },
+        {
+          "id": "obsidian-dictionary-plugin",
+          "name": "Dictionary"
+        },
+        {
+          "id": "obsidian-douban-plugin",
+          "name": "Douban"
+        },
+        {
+          "id": "obsidian-excalidraw-plugin",
+          "name": "Excalidraw"
+        },
+        {
+          "id": "obsidian-file-cooker",
+          "name": "File Cooker"
+        },
+        {
+          "id": "obsidian-focus-plugin",
+          "name": "Focus and Highlight"
+        },
+        {
+          "id": "obsidian-git",
+          "name": "Obsidian Git"
+        },
+        {
+          "id": "obsidian-hider",
+          "name": "Hider"
+        },
+        {
+          "id": "obsidian-hotkeys-for-specific-files",
+          "name": "Hotkeys for specific files"
+        },
+        {
+          "id": "obsidian-hover-editor",
+          "name": "Hover Editor"
+        },
+        {
+          "id": "obsidian-icon-folder",
+          "name": "Icon Folder"
+        },
+        {
+          "id": "obsidian-kanban",
+          "name": "Kanban"
+        },
+        {
+          "id": "obsidian-linter",
+          "name": "Linter"
+        },
+        {
+          "id": "obsidian-list-callouts",
+          "name": "List Callouts"
+        },
+        {
+          "id": "obsidian-local-images-plus",
+          "name": "Local Images Plus"
+        },
+        {
+          "id": "obsidian-local-rest-api",
+          "name": "Local REST API"
+        },
+        {
+          "id": "obsidian-mindmap-nextgen",
+          "name": "Mindmap NextGen"
+        },
+        {
+          "id": "obsidian-omnivore",
+          "name": "Omnivore"
+        },
+        {
+          "id": "obsidian-pandoc",
+          "name": "Pandoc Plugin"
+        },
+        {
+          "id": "obsidian-pangu",
+          "name": "盘古 PanGu"
+        },
+        {
+          "id": "obsidian-pending-notes",
+          "name": "Pending notes"
+        },
+        {
+          "id": "obsidian-plantuml",
+          "name": "PlantUML"
+        },
+        {
+          "id": "obsidian-plugin-update-tracker",
+          "name": "Plugin Update Tracker"
+        },
+        {
+          "id": "obsidian-projects",
+          "name": "Projects"
+        },
+        {
+          "id": "obsidian-prozen",
+          "name": "ProZen"
+        },
+        {
+          "id": "obsidian-query-control",
+          "name": "Query Control"
+        },
+        {
+          "id": "obsidian-quiet-outline",
+          "name": "Quiet Outline"
+        },
+        {
+          "id": "obsidian-shellcommands",
+          "name": "Shell commands"
+        },
+        {
+          "id": "obsidian-sortable",
+          "name": "Sortable"
+        },
+        {
+          "id": "obsidian-spaced-repetition",
+          "name": "Spaced Repetition"
+        },
+        {
+          "id": "obsidian-style-settings",
+          "name": "Style Settings"
+        },
+        {
+          "id": "obsidian-textgenerator-plugin",
+          "name": "Text Generator"
+        },
+        {
+          "id": "quickadd",
+          "name": "QuickAdd"
+        },
+        {
+          "id": "settings-search",
+          "name": "Settings Search"
+        },
+        {
+          "id": "smart-connections",
+          "name": "Smart Connections"
+        },
+        {
+          "id": "supercharged-links-obsidian",
+          "name": "Supercharged Links"
+        },
+        {
+          "id": "table-editor-obsidian",
+          "name": "Advanced Tables"
+        },
+        {
+          "id": "table-extended",
+          "name": "Table Extended"
+        },
+        {
+          "id": "tag-wrangler",
+          "name": "Tag Wrangler"
+        },
+        {
+          "id": "templater-obsidian",
+          "name": "Templater"
+        },
+        {
+          "id": "various-complements",
+          "name": "Various Complements"
+        },
+        {
+          "id": "obsidian-zotero-desktop-connector",
+          "name": "Zotero Integration"
+        },
+        {
+          "id": "code-emitter",
+          "name": "Code Emitter"
+        },
+        {
+          "id": "obsidian-vimrc-support",
+          "name": "Vimrc Support"
+        },
+        {
+          "id": "obsidian-advanced-codeblock",
+          "name": "Advanced Codeblock"
+        },
+        {
+          "id": "obsidian-better-codeblock",
+          "name": "Better CodeBlock"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "autoAdd": true
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pg01",
+      "name": "文件管理插件",
+      "plugins": [
+        {
+          "id": "obsidian-projects",
+          "name": "Projects"
+        },
+        {
+          "id": "obsidian-git",
+          "name": "Obsidian Git"
+        },
+        {
+          "id": "janitor",
+          "name": "Janitor"
+        },
+        {
+          "id": "obsidian-icon-folder",
+          "name": "Icon Folder"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "None"
+}

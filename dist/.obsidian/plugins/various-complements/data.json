@@ -1,0 +1,91 @@
+{
+  "strategy": "chinese",
+  "cedictPath": ".obsidian/extra/cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": true,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^。，",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Full",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": true,
+  "openSourceFileKey": "Ctrl/Cmd+Enter",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 3,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 4,
+  "includeCurrentVaultPathPrefixPatterns": "专有名词库",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": true,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "",
+  "columnDelimiter": "Pipe",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "+=",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "=>",
+  "caretLocationSymbolAfterComplement": "$END$",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": true,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "co-reference": {
+      "co-reference": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687242985276
+        }
+      }
+    },
+    "orkspace": {
+      "orkspace": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687335500021
+        }
+      }
+    },
+    "node_modules": {
+      "node_modules": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687336150283
+        }
+      }
+    }
+  }
+}
